@@ -8,7 +8,7 @@ h2{
   color: ghostwhite;
   font-style: oblique;
   font-family: monospace;
-  font-size: 250%;
+  font-size: 100%;
 }
 h3{
   color: ghostwhite;
@@ -24,6 +24,7 @@ p{
 #content{
   background-color: gray;
   text-align: center;
+  font-size: 100%
 }
 #output{
   background-color: gray;
